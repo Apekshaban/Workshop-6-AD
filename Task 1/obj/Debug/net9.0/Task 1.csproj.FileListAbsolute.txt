@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\bin\Debug\net9.0\Task 1.exe
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\bin\Debug\net9.0\Task 1.deps.json
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\bin\Debug\net9.0\Task 1.dll
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\bin\Debug\net9.0\Task 1.pdb
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.dll
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.pdb
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\3year\application\Workshop6\Task 1\obj\Debug\net9.0\ref\Task 1.dll
